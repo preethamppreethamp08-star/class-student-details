@@ -281,7 +281,7 @@ void student_DASHAMI_D_M() {
 }
 
 void student_PREETHAM_P() {
-    printf("PREETHAM P is absent\n");
+    printf("PREETHAM P is present\n");
 }
 
 int main() {
